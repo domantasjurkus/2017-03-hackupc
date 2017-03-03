@@ -1,0 +1,7 @@
+<script>
+	var xdiff = -10;
+	var ydiff = 10;
+	var azimuth = Math.atan2(xdiff, ydiff)*180/Math.PI;
+	if (azimuth < 0) azimuth += 360;
+	console.log(azimuth);
+</script>
