@@ -5,6 +5,13 @@ var _ = require('lodash');
 // var L = require('leaflet');
 // var r = require('leaflet-rotatedmarker');
 
+//
+//
+// KEEP THIS FILE FOR REFERENCE
+// Work on new stuff on server.js
+//
+//
+
 // Game variables
 var players = {};
 var defaultHealth = 9;
@@ -15,19 +22,15 @@ var empDuration = 10;
 // ngrok.exe http -subdomain=montd 3000
 
 app.get('/', function(req, res) {
-	res.sendFile(__dirname + '/index.html');
+	res.sendFile(__dirname + '/views/index.html');
 });
 
-app.get('/test', function(req, res) {
-	res.sendFile(__dirname + '/test.html');
-})
-
 app.get('/map', function(req, res) {
-	res.sendFile(__dirname + '/map.js');
+	res.sendFile(__dirname + '/static/js/map.js');
 })
 
 app.get('/script', function(req, res) {
-	res.sendFile(__dirname + '/script.js');
+	res.sendFile(__dirname + '/static/js/script.js');
 });
 
 // Broadcast all player locations
