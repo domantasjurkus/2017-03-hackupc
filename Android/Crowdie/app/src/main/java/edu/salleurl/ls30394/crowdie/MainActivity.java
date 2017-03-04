@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import edu.salleurl.ls30394.crowdie.Services.LocationService;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -25,11 +27,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         initWidgets();
+        initServices();
     }
 
-    @Override
-    protected void onStart() {
-        super.onStart();
+    private void initServices() {
+
+        startService(new Intent(this, LocationService.class));
+
     }
 
     private void initWidgets() {

@@ -21,57 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e51c2f662bb72419632af5192553c37e33890a99">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_7952b7dd2ae86466da7c94f50bfafcef44b50fe2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_6be97641e80106d0c96b3db03d3cbc08ef0a3987\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_717e119da80fe243755cd77c7ce2b003fa2a493c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_b3f37fe67daee9276e484ac35b72d33e4a9778fa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_e9cd0af0f6f0ffeeac2a5424696fe8cbc8938d7d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_536651dadadc43b2d2770ad78ea36ff108050287\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,42 +48,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="05be8a3912ca6b3958c70e73aa889bd09cdf99e6">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d20477d689046ee087736d97d9b35bc437e7391\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_373acbe32e13c147165455aa89b11ad3bec029f4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_41cffeb0947311d792623fe572375e6f67cc274e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_f5baf1fff157417596c59195addf24a9991e29ea\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -147,33 +66,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_f1bf1534b3a98a6d2e8345d2fffc989359e9d96c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_7e5455b6549c152f7623f17d2618dda4ff3608e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_7fc9f5cd085a6c7165becc517014ed1653ae0102\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -189,15 +81,6 @@
         revision="25.0.2"
         sha1="a48dc0b148059764d32500be558702d5ff932058">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_cee27f0648da3c7990fd5ab3be9694ac26d4c6ec\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_bb004a444fa72595d946a0e6256661168686d5a1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -255,33 +138,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_99b5621058ce60a65a7cd9723640017d08923801\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_6d38040d1ab896b96d318afc2dcf4bff27d555e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_e0d5592ff64ca6d21af8fb6ac8f618cc27f3ff7b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -300,30 +156,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_93a160033799e0e2ee9739cf3411d2e19d9a944b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_66c405188a79c88081765a5519ee8ef0bec50877\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_9be67df88d005637585f40de5a6a91759c9f2bb2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -340,7 +178,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8439a968a1d2d04722c7a456ff5fac0d9b9e3520">
+        sha1="5834ed96bc9fabb73b4c29e4e8d0d368c180a21a">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b1f3b6980d08e25b0934b2df84e6f0dd309c510d\classes.dex" />
     </item>
     <item
@@ -387,6 +225,258 @@
         revision="25.0.2"
         sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_9d449d7e3a91aaa446d1bbfc837ba1cbe0d361dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_51d5b587c1edb8f1c23a7ac1935c8c7dfbe57d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_f9d129ec2328d38da01a2aa5f1ff3fd6fbfcedd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_6b53415aea9e30e3ce960d0a951edffd45f4e0e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_9f089d4cbe1e6cc7ecd856d41d7b45bb18fd94ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_49420b4f781a165cd90456adc4556c7fde162aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_10cf9e90a1a91506d65804e57e6794c31b7125b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_c8c9c9738d6fc853b45d2f101742583a20bcda6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_da98a295f0d250223804d8a1e76f855f1ae422d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_685378f1b7a79ac18097a4bdabd48743e9af236f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_81f896fbe0408a2120456ceb8b0833d84d937ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_7952b7dd2ae86466da7c94f50bfafcef44b50fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_6be97641e80106d0c96b3db03d3cbc08ef0a3987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_717e119da80fe243755cd77c7ce2b003fa2a493c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_b3f37fe67daee9276e484ac35b72d33e4a9778fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_536651dadadc43b2d2770ad78ea36ff108050287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_373acbe32e13c147165455aa89b11ad3bec029f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_41cffeb0947311d792623fe572375e6f67cc274e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_f5baf1fff157417596c59195addf24a9991e29ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f16242290b2f3b5f0648129538ccab17951695ed">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d20477d689046ee087736d97d9b35bc437e7391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_f1bf1534b3a98a6d2e8345d2fffc989359e9d96c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_7e5455b6549c152f7623f17d2618dda4ff3608e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_7fc9f5cd085a6c7165becc517014ed1653ae0102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_bb004a444fa72595d946a0e6256661168686d5a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_99b5621058ce60a65a7cd9723640017d08923801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_6d38040d1ab896b96d318afc2dcf4bff27d555e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_e0d5592ff64ca6d21af8fb6ac8f618cc27f3ff7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_93a160033799e0e2ee9739cf3411d2e19d9a944b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_9be67df88d005637585f40de5a6a91759c9f2bb2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -444,15 +534,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_51d5b587c1edb8f1c23a7ac1935c8c7dfbe57d0e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -462,57 +543,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_f9d129ec2328d38da01a2aa5f1ff3fd6fbfcedd9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_6b53415aea9e30e3ce960d0a951edffd45f4e0e1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_9f089d4cbe1e6cc7ecd856d41d7b45bb18fd94ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_f996a2a35a1170154304d21778a883f04a7f87a3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_49420b4f781a165cd90456adc4556c7fde162aaa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_10cf9e90a1a91506d65804e57e6794c31b7125b7\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -552,15 +588,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_c8c9c9738d6fc853b45d2f101742583a20bcda6c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -570,39 +597,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_da98a295f0d250223804d8a1e76f855f1ae422d6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_52a936c0aec71e58935f868d46a030d2585152fc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_685378f1b7a79ac18097a4bdabd48743e9af236f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_81f896fbe0408a2120456ceb8b0833d84d937ee7\classes.dex" />
     </item>
     <item
         is-multidex="true"
