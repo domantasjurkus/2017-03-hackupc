@@ -51,7 +51,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void OnSettingsSelected(View view) {
 
-        nextActivity = new Intent();
+        //nextActivity = new Intent(this, SettingsActivity.class);
+        //startActivity(nextActivity);
 
     }
 

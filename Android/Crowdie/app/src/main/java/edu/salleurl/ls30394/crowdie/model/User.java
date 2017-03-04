@@ -12,6 +12,8 @@ public class User {
 
     private Location userLocation;
 
+    private int points;
+
     private boolean isLifeGuard;
 
     private boolean firstAidSkills;

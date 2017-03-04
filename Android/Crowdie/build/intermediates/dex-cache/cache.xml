@@ -97,17 +97,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="328ac4f20cea6431498e4b05dc824208762b1032">
+        sha1="05be8a3912ca6b3958c70e73aa889bd09cdf99e6">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d20477d689046ee087736d97d9b35bc437e7391\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_41cffeb0947311d792623fe572375e6f67cc274e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,6 +108,15 @@
         revision="25.0.2"
         sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_373acbe32e13c147165455aa89b11ad3bec029f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_41cffeb0947311d792623fe572375e6f67cc274e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -340,7 +340,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0f6aada0de55a0c9bb8434a773ffcbe0dbab3299">
+        sha1="8439a968a1d2d04722c7a456ff5fac0d9b9e3520">
         <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b1f3b6980d08e25b0934b2df84e6f0dd309c510d\classes.dex" />
     </item>
     <item

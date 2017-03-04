@@ -60,9 +60,12 @@ public class ProfileActivity extends AppCompatActivity {
         setContentView(R.layout.activity_profile);
 
         initWidgets();
+        configTabbedView();
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+    }
+
+    private void configTabbedView() {
+
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
@@ -77,6 +80,9 @@ public class ProfileActivity extends AppCompatActivity {
     }
 
     private void initWidgets() {
+
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
 
         cbCPR = (CheckBox)findViewById(R.id.profile_hasCPRPractice);
         cbFirstAid = (CheckBox)findViewById(R.id.profile_has1stAidPractice);
@@ -108,18 +114,20 @@ public class ProfileActivity extends AppCompatActivity {
 
     private void retrieveUserForm() {
 
+        //TODO
+
         SharedPreferences preferences = getPreferences(Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = preferences.edit();
 
         User user = new User();
 
-        user.setCanPerformCPR(cbCPR.isChecked());
+        /*user.setCanPerformCPR(cbCPR.isChecked());
         user.setFirstAidSkills(cbFirstAid.isChecked());
         user.setLifeGuard(cbLifeGuard.isChecked());
 
         user.setHasCardioVascularIssues(cbHeartIssues.isChecked());
         user.setHasMentalHealthIssues(cbMental.isChecked());
-        user.setPhysicallyDisabled(cbPhysicallyDisabled.isChecked());
+        user.setPhysicallyDisabled(cbPhysicallyDisabled.isChecked());*/
 
         user.setUserName(preferences.getString("UserName", ""));
 
