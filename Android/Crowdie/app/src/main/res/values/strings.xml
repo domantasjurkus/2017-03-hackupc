@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Crowdie</string>
     <string name="main_question"><b>ARE YOU IN DANGER?</b></string>
+    <string name="live_map">LIVE MAP</string>
+    <string name="settings">SETTINGS</string>
+    <string name="emergency">EMERGENCY</string>
 </resources>

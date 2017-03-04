@@ -10,11 +10,22 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        initWidgets();
     }
 
-    public void OnUserInDanger(View view) {
+    private void initWidgets() {
+
+        getSupportActionBar().hide();
+
     }
 
-    public void OnUserNotInDanger(View view) {
+    public void onLiveMapSelected(View view) {
+    }
+
+    public void OnSettingsSelected(View view) {
+    }
+
+    public void OnEmergency(View view) {
     }
 }
