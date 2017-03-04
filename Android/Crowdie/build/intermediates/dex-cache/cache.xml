@@ -156,6 +156,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\avoge\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_7e5455b6549c152f7623f17d2618dda4ff3608e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\avoge\Documents\Development\2017-03-hackupc\Android\Crowdie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"

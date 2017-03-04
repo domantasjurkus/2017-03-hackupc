@@ -5,18 +5,18 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/colorPrimaryText"
+        android:background="@color/colorPrimaryDark"
         android:paddingBottom="@dimen/activity_vertical_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_vertical_margin">
         <TextView
-            android:id="@+id/section_label"
+            android:id="@+id/section_label_supporter"
             android:textSize="24sp"
             android:textAlignment="textStart"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:textColor="@color/colorPrimaryLight"
+            android:textColor="@color/colorAccent"
             android:textStyle="bold"
             android:text="@string/mark_skills_and_habilities_that_may_aid_in_emergency_situations"
             android:layout_marginTop="@dimen/activity_vertical_margin"
@@ -26,7 +26,7 @@
 
         <LinearLayout
             android:layout_marginTop="@dimen/activity_vertical_margin"
-            android:layout_below="@id/section_label"
+            android:layout_below="@id/section_label_supporter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">

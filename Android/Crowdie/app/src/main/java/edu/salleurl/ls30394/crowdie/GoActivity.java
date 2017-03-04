@@ -44,7 +44,7 @@ public class GoActivity extends AppCompatActivity {
     public void OnGO(View view) {
 
         if("".equals(etName.getText().toString())){
-            Toast.makeText(this, "Pleae introduce your name", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Please introduce your name", Toast.LENGTH_SHORT).show();
         }else{
 
             SharedPreferences sharedPref = getPreferences(Context.MODE_PRIVATE);

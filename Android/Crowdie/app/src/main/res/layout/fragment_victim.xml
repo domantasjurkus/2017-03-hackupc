@@ -13,7 +13,60 @@
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_vertical_margin">
 
+        <TextView
+            android:text="Mark any health issues that may help supporters if you have a situation"
+            android:id="@+id/section_label_victim"
+            android:textAlignment="textStart"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
+        <LinearLayout
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_below="@id/section_label_victim"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:textColor="@color/colorPrimaryLight"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:text="@string/mental_health_issues"
+                android:textSize="25sp"
+                android:id="@+id/profile_hasMentalHealthIssues"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_vertical_margin" />
+
+            <CheckBox
+                android:textColor="@color/colorPrimaryLight"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:text="@string/cardiovascular_diseases"
+                android:textSize="25sp"
+                android:id="@+id/profile_hasCardioProblems"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <CheckBox
+                android:textColor="@color/colorPrimaryLight"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:text="@string/physically_disabled"
+                android:textSize="25sp"
+                android:id="@+id/profile_isPhysicallyDisabled"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
 
     </RelativeLayout>
 

@@ -15,4 +15,7 @@
     <string name="_1st_aid_practice">1st AID Practice</string>
     <string name="lifeguard">Lifeguard?</string>
     <string name="cpr_practice">CPR practice</string>
+    <string name="mental_health_issues">Mental Health Issues</string>
+    <string name="cardiovascular_diseases">Cardiovascular diseases</string>
+    <string name="physically_disabled">Physically disabled</string>
 </resources>

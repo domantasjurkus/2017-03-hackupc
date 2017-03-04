@@ -16,13 +16,13 @@ public class User {
 
     private boolean firstAidSkills;
 
+    private boolean canPerformCPR;
+
     private boolean hasMentalHealthIssues;
 
     private boolean hasCardioVascularIssues;
 
     private boolean isPhysicallyDisabled;
-
-    private boolean canPerformCPR;
 
     public User() {
     }

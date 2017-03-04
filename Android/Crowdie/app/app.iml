@@ -234,6 +234,7 @@
     <orderEntry type="library" exported="" name="firebase-storage-10.0.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="espresso-core-2.2.2" level="project" />
     <orderEntry type="library" exported="" name="play-services-tagmanager-api-10.0.1" level="project" />
+    <orderEntry type="library" exported="" name="gson-2.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="rules-0.5" level="project" />
     <orderEntry type="library" exported="" name="play-services-iid-10.0.1" level="project" />
     <orderEntry type="library" exported="" name="play-services-tagmanager-10.0.1" level="project" />
