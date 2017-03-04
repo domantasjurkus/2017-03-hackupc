@@ -5,4 +5,14 @@
     <string name="settings">SETTINGS</string>
     <string name="emergency">EMERGENCY</string>
     <string name="title_activity_map">Map</string>
+    <string name="profile">PROFILE</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="supporter">SUPPORTER</string>
+    <string name="action_done">Done</string>
+    <string name="mark_skills_and_habilities_that_may_aid_in_emergency_situations">Mark skills and habilities that may aid in emergency situations</string>
+    <string name="_1st_aid_practice">1st AID Practice</string>
+    <string name="lifeguard">Lifeguard?</string>
+    <string name="cpr_practice">CPR practice</string>
 </resources>

@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import edu.salleurl.ls30394.crowdie.repositories.GpsTrackerRepository;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,19 +25,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         initWidgets();
-        initLocator();
     }
 
     @Override
     protected void onStart() {
         super.onStart();
-    }
-
-    private void initLocator() {
-
-        startService(new Intent(this, GpsTrackerRepository.class));
-        Toast.makeText(this, "Locator initiated", Toast.LENGTH_SHORT).show();
-
     }
 
     private void initWidgets() {
@@ -66,7 +57,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void OnEmergency(View view) {
 
-        nextActivity = new Intent(this, AreYouInjuredActivity.class);
+        //nextActivity = new Intent(this, AreYouInjuredActivity.class);
         startActivity(nextActivity);
+    }
+
+    public void onProfileSelected(View view) {
+
+        nextActivity = new Intent(this, ProfileActivity.class);
+        startActivity(nextActivity);
+
     }
 }

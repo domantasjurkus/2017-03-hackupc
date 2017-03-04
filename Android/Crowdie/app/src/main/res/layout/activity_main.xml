@@ -27,7 +27,6 @@
                 android:onClick="onLiveMapSelected"
                 android:textSize="30sp"
                 android:text="@string/live_map"
-                android:layout_marginBottom="@dimen/activity_vertical_margin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
@@ -39,6 +38,15 @@
                 android:text="@string/settings"
                 android:layout_marginTop="@dimen/activity_vertical_margin"
                 android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/main_activity_profile_btn"
+                android:textStyle="bold"
+                android:onClick="onProfileSelected"
+                android:textSize="30sp"
+                android:text="@string/profile"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
