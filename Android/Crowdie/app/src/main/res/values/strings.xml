@@ -4,4 +4,5 @@
     <string name="live_map">LIVE MAP</string>
     <string name="settings">SETTINGS</string>
     <string name="emergency">EMERGENCY</string>
+    <string name="title_activity_map">Map</string>
 </resources>

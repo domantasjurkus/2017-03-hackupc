@@ -22,6 +22,7 @@
             android:layout_height="wrap_content">
 
             <Button
+                android:id="@+id/main_activity_liveMap_btn"
                 android:textStyle="bold"
                 android:onClick="onLiveMapSelected"
                 android:textSize="30sp"
@@ -31,6 +32,7 @@
                 android:layout_height="wrap_content" />
 
             <Button
+                android:id="@+id/main_activity_settings_btn"
                 android:textStyle="bold"
                 android:onClick="OnSettingsSelected"
                 android:textSize="30sp"
@@ -41,6 +43,7 @@
                 android:layout_height="wrap_content" />
 
             <Button
+                android:id="@+id/activity_main_emergency_btn"
                 android:textColor="@color/colorAccent"
                 android:text="@string/emergency"
                 android:textStyle="bold"
