@@ -8,4 +8,4 @@ The goal of this project is to create an application that leverages GPS to provi
 
 ![](https://raw.githubusercontent.com/domantasjurkus/2017-03-hackupc/master/img/03_map.png | width=400)
 
-<img src="https://github.com/favicon.ico" height="24">
+<img src="https://github.com/favicon.ico" height="48">
