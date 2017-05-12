@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-## Title here
-
-Talk about this app if you have some time
-=======
 ## Crowd-E
 
-In this connected world that we live in, technology needs to be put into good use. As recent developments in collaborative economy have shown us, having a network of central nodes can enhance collaboration even when some people decline to help. This is why we are building Crowd-E; a platform in which you can help people nearby until the emergency services arrives because... Would you want help someday?
->>>>>>> de2a8a861b93fdf568f1a5862f5bc55ceed95d80
+The goal of this project is to create an application that leverages GPS to provide support for people in emergency situations. The general idea is to gamify the experience: each user is a Supporter who is capable of assisting Victims in a number of ways, most of which would be pre-defined by the user's profile. At any time any user is able to call for assistance and therefore mark themselves as a Victim. In case of emergency both the Victim and Supporters are able to call appropriate services based on the severity of the situation. If the Supporter is able to aid the Victim, they can both mark the situation as resolved without involving any public services.
+
+![menu_01](https://raw.githubusercontent.com/domantasjurkus/2017-03-hackupc/master/img/01_menu.png "Menu item")
+
+![menu_02](https://raw.githubusercontent.com/domantasjurkus/2017-03-hackupc/master/img/02_menu.png "Menu item")
+
+![map](https://raw.githubusercontent.com/domantasjurkus/2017-03-hackupc/master/img/03_map.png "Map")
